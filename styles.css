@@ -1,0 +1,54 @@
+
+body{
+    background-color: black;
+}
+h1{
+    font-size: 200px;
+}
+.str-1 p{
+    width: 550px;
+    margin-bottom: 50px;
+}
+h4{
+    font-size: 35px;
+}
+h2{
+    font-size: 120px;
+    width: 500px;
+}
+h3{
+    font-size: 50px;
+}
+.str-2{
+    margin-top: 190px;
+}
+.str-3{
+    margin-top: 330px;
+}
+h5{
+    width: 550px;
+    font-size: 25px;
+    margin-top: 50px;
+}
+.str-4{
+    margin-top: 150px;
+}
+.str-4 h3{
+    margin-left: 300px;
+}
+.image img{
+    position: relative;
+    z-index: -1;
+    top: 40px;
+}
+.nayza{
+    position: absolute;
+    z-index: -1;
+    bottom: 10px;
+}
+.images-2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: end;
+}
